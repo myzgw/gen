@@ -2,8 +2,8 @@ package main
 
 import (
 	"gen"
-	"gen/examples/conf"
-	"gen/examples/dal"
+	"myzgw/gen/examples/conf"
+	"myzgw/gen/examples/dal"
 )
 
 func init() {

@@ -10,8 +10,8 @@ import (
 	"testing"
 
 	"gen"
-	"gen/field"
-	"gen/tests/.gen/dal_3/model"
+	"myzgw/gen/field"
+	"myzgw/gen/tests/.myzgw/gen/dal_3/model"
 	"gorm.io/gorm/clause"
 )
 

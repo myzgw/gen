@@ -12,8 +12,8 @@ import (
 	"gorm.io/gorm/schema"
 
 	"gen"
-	"gen/examples/dal/model"
-	"gen/field"
+	"myzgw/gen/examples/dal/model"
+	"myzgw/gen/field"
 )
 
 func newMytable(db *gorm.DB) mytable {

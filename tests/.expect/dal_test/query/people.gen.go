@@ -12,11 +12,11 @@ import (
 	"gorm.io/gorm/schema"
 
 	"gen"
-	"gen/field"
+	"myzgw/gen/field"
 
 	"gorm.io/plugin/dbresolver"
 
-	"gen/tests/.expect/dal_test/model"
+	"myzgw/gen/tests/.expect/dal_test/model"
 )
 
 func newPerson(db *gorm.DB) person {

@@ -3,8 +3,8 @@ package tests_test
 import (
 	"testing"
 
-	"gen/tests/.expect/dal_test/model"
-	"gen/tests/.expect/dal_test/query"
+	"myzgw/gen/tests/.expect/dal_test/model"
+	"myzgw/gen/tests/.expect/dal_test/query"
 )
 
 func TestQuery_Find(t *testing.T) {

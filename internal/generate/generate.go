@@ -8,7 +8,7 @@ import (
 	"gorm.io/gorm"
 	"gorm.io/gorm/schema"
 
-	"gen/internal/model"
+	"myzgw/gen/internal/model"
 )
 
 /*

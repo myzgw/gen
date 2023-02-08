@@ -8,7 +8,7 @@ import (
 	"gorm.io/gorm"
 	"gorm.io/gorm/utils/tests"
 
-	"gen/internal/model"
+	"myzgw/gen/internal/model"
 )
 
 // GenerateMode generate mode

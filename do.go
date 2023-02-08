@@ -12,8 +12,8 @@ import (
 	"gorm.io/gorm/clause"
 	"gorm.io/gorm/schema"
 
-	"gen/field"
-	"gen/helper"
+	"myzgw/gen/field"
+	"myzgw/gen/helper"
 )
 
 // ResultInfo query/execute info

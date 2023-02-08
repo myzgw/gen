@@ -2,7 +2,7 @@ package main
 
 import (
 	"gen"
-	"gen/helper"
+	"myzgw/gen/helper"
 )
 
 var detail, data helper.Object

@@ -2,7 +2,7 @@ package main
 
 import (
 	"gen"
-	"gen/examples/dal/model"
+	"myzgw/gen/examples/dal/model"
 )
 
 func main() {

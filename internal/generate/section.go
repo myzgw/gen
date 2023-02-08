@@ -5,7 +5,7 @@ import (
 	"strconv"
 	"strings"
 
-	"gen/internal/model"
+	"myzgw/gen/internal/model"
 )
 
 // NewSection create and initialize Sections

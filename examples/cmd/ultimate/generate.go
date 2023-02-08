@@ -2,9 +2,9 @@ package main
 
 import (
 	"gen"
-	"gen/examples/conf"
-	"gen/examples/dal"
-	"gen/examples/dal/model"
+	"myzgw/gen/examples/conf"
+	"myzgw/gen/examples/dal"
+	"myzgw/gen/examples/dal/model"
 )
 
 func init() {

@@ -5,8 +5,8 @@ import (
 	"strconv"
 	"strings"
 
-	"gen/internal/model"
-	"gen/internal/parser"
+	"myzgw/gen/internal/model"
+	"myzgw/gen/internal/parser"
 )
 
 // InterfaceMethod interface's method

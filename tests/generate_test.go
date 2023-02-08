@@ -11,11 +11,11 @@ import (
 
 	"gen"
 
-	"gen/tests/diy_method"
+	"myzgw/gen/tests/diy_method"
 )
 
 const (
-	generateDirPrefix = ".gen/"
+	generateDirPrefix = ".myzgw/gen/"
 	expectDirPrefix   = ".expect/"
 )
 

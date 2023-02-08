@@ -3,7 +3,7 @@
 # dialects=("sqlite" "mysql" "postgres" "sqlserver")
 dialects=("mysql")
 
-if [[ $(pwd) == *"gen/tests"* ]]; then
+if [[ $(pwd) == *"myzgw/gen/tests"* ]]; then
   cd ..
 fi
 

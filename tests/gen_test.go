@@ -4,7 +4,7 @@ import (
 	"context"
 	"sync"
 
-	"gen/tests/.expect/dal_test/query"
+	"myzgw/gen/tests/.expect/dal_test/query"
 )
 
 var useOnce sync.Once

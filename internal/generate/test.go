@@ -5,7 +5,7 @@ import (
 	"strconv"
 	"strings"
 
-	"gen/internal/parser"
+	"myzgw/gen/internal/parser"
 )
 
 // GetTestParamInTmpl return param list

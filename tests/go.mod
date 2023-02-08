@@ -1,4 +1,4 @@
-module gen/tests
+module myzgw/gen/tests
 
 go 1.16
 
