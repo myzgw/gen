@@ -20,12 +20,12 @@ import (
 	"gorm.io/gorm"
 	"gorm.io/gorm/schema"
 
-	"github.com/myzgw/gen/helper"
-	"github.com/myzgw/gen/internal/generate"
-	"github.com/myzgw/gen/internal/model"
-	"github.com/myzgw/gen/internal/parser"
-	tmpl "github.com/myzgw/gen/internal/template"
-	"github.com/myzgw/gen/internal/utils/pools"
+	"gen/helper"
+	"gen/internal/generate"
+	"gen/internal/model"
+	"gen/internal/parser"
+	tmpl "gen/internal/template"
+	"gen/internal/utils/pools"
 )
 
 // T generic type

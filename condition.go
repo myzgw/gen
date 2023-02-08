@@ -3,7 +3,7 @@ package gen
 import (
 	"fmt"
 
-	"github.com/myzgw/gen/field"
+	"gen/field"
 
 	"gorm.io/datatypes"
 	"gorm.io/gorm/clause"

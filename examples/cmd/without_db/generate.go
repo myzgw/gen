@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/myzgw/gen"
-	"github.com/myzgw/gen/examples/dal/model"
+	"gen"
+	"gen/examples/dal/model"
 )
 
 func main() {

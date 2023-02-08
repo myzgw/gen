@@ -3,7 +3,7 @@ package main
 import (
 	"strings"
 
-	"github.com/myzgw/gen/helper"
+	"gen/helper"
 )
 
 var _ helper.Object = new(Demo)

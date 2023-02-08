@@ -10,7 +10,7 @@ import (
 	"gorm.io/gorm/clause"
 	"gorm.io/hints"
 
-	"github.com/myzgw/gen/field"
+	"gen/field"
 )
 
 var (

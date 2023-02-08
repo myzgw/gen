@@ -7,7 +7,7 @@
 ## 安装
 
 ```shell
- go install github.com/myzgw/gen/tools/gentool@latest
+ go install gen/tools/gentool@latest
 ```
 
 ## 使用方式

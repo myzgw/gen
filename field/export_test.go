@@ -7,7 +7,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/myzgw/gen/field"
+	"gen/field"
 )
 
 var _ field.ScanValuer = new(password)

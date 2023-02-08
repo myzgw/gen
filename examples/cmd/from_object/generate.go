@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/myzgw/gen"
-	"github.com/myzgw/gen/helper"
+	"gen"
+	"gen/helper"
 )
 
 var detail, data helper.Object
