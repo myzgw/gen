@@ -1,7 +1,7 @@
 package main
 
 import (
-	"gen"
+	"github.com/myzgw/gen"
 
 	"github.com/myzgw/gen/examples/dal/model"
 )

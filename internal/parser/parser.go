@@ -143,12 +143,12 @@ func (p *Param) IsError() bool {
 
 // IsGenM ...
 func (p *Param) IsGenM() bool {
-	return p.Package == "gen" && p.Type == "M"
+	return p.Package == "github.com/myzgw/gen" && p.Type == "M"
 }
 
 // IsGenRowsAffected ...
 func (p *Param) IsGenRowsAffected() bool {
-	return p.Package == "gen" && p.Type == "RowsAffected"
+	return p.Package == "github.com/myzgw/gen" && p.Type == "RowsAffected"
 }
 
 // IsMap ...
@@ -158,7 +158,7 @@ func (p *Param) IsMap() bool {
 
 // IsGenT ...
 func (p *Param) IsGenT() bool {
-	return p.Package == "gen" && p.Type == "T"
+	return p.Package == "github.com/myzgw/gen" && p.Type == "T"
 }
 
 // IsInterface ...
@@ -183,17 +183,17 @@ func (p *Param) IsTime() bool {
 
 // IsSQLResult ...
 func (p *Param) IsSQLResult() bool {
-	return (p.Package == "sql" && p.Type == "Result") || (p.Package == "gen" && p.Type == "SQLResult")
+	return (p.Package == "sql" && p.Type == "Result") || (p.Package == "github.com/myzgw/gen" && p.Type == "SQLResult")
 }
 
 // IsSQLRow ...
 func (p *Param) IsSQLRow() bool {
-	return (p.Package == "sql" && p.Type == "Row") || (p.Package == "gen" && p.Type == "SQLRow")
+	return (p.Package == "sql" && p.Type == "Row") || (p.Package == "github.com/myzgw/gen" && p.Type == "SQLRow")
 }
 
 // IsSQLRows ...
 func (p *Param) IsSQLRows() bool {
-	return (p.Package == "sql" && p.Type == "Rows") || (p.Package == "gen" && p.Type == "SQLRows")
+	return (p.Package == "sql" && p.Type == "Rows") || (p.Package == "github.com/myzgw/gen" && p.Type == "SQLRows")
 }
 
 // SetName ...

@@ -12,7 +12,7 @@ var (
 		"gorm.io/gorm/schema",
 		"gorm.io/gorm/clause",
 		"",
-		"gen",
+		"github.com/myzgw/gen",
 		"github.com/myzgw/gen/field",
 		"github.com/myzgw/gen/helper",
 		"",

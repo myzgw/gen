@@ -11,7 +11,7 @@ import (
 	"gorm.io/gorm/clause"
 	"gorm.io/gorm/schema"
 
-	"gen"
+	"github.com/myzgw/gen"
 	"github.com/myzgw/gen/examples/dal/model"
 	"github.com/myzgw/gen/field"
 )

@@ -3,7 +3,7 @@ package main
 import (
 	"strings"
 
-	"gen"
+	"github.com/myzgw/gen"
 
 	"github.com/myzgw/gen/examples/conf"
 	"github.com/myzgw/gen/examples/dal"
