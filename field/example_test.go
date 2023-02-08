@@ -3,7 +3,7 @@ package field_test
 import (
 	"fmt"
 
-	"myzgw/gen/field"
+	"github.com/myzgw/gen/field"
 )
 
 func ExampleFunc() {

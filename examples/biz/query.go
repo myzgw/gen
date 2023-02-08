@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 
-	"myzgw/gen/examples/dal/query"
+	"github.com/myzgw/gen/examples/dal/query"
 )
 
 var q = query.Q

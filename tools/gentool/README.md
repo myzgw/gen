@@ -5,7 +5,7 @@ Install GEN as a binary tool
 ## install
 
 ```shell
- go install myzgw/gen/tools/gentool@latest
+ go install github.com/myzgw/gen/tools/gentool@latest
 ```
 
 ## usage

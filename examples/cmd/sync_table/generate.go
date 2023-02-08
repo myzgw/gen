@@ -4,8 +4,9 @@ import (
 	"strings"
 
 	"gen"
-	"myzgw/gen/examples/conf"
-	"myzgw/gen/examples/dal"
+
+	"github.com/myzgw/gen/examples/conf"
+	"github.com/myzgw/gen/examples/dal"
 )
 
 func init() {
