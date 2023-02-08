@@ -1,7 +1,7 @@
 package diy_method
 
 import (
-	"gorm.io/gen"
+	"myzgw/gen"
 	"time"
 )
 

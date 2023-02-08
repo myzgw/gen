@@ -4,10 +4,10 @@ import (
 	"context"
 	"fmt"
 
-	"gorm.io/gen/examples/biz"
-	"gorm.io/gen/examples/conf"
-	"gorm.io/gen/examples/dal"
-	"gorm.io/gen/examples/dal/query"
+	"myzgw/gen/examples/biz"
+	"myzgw/gen/examples/conf"
+	"myzgw/gen/examples/dal"
+	"myzgw/gen/examples/dal/query"
 )
 
 func init() {

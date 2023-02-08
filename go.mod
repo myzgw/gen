@@ -1,4 +1,4 @@
-module gorm.io/gen
+module myzgw/gen
 
 go 1.18
 

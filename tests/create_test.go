@@ -3,8 +3,8 @@ package tests_test
 import (
 	"testing"
 
-	"gorm.io/gen/tests/.expect/dal_test/model"
-	"gorm.io/gen/tests/.expect/dal_test/query"
+	"myzgw/gen/tests/.expect/dal_test/model"
+	"myzgw/gen/tests/.expect/dal_test/query"
 )
 
 func TestCreate(t *testing.T) {

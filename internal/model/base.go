@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"strings"
 
-	"gorm.io/gen/field"
+	"myzgw/gen/field"
 )
 
 const (
@@ -112,12 +112,12 @@ func (g *KeyWord) Contain(text string) bool {
 var (
 	defaultDataType             = "string"
 	dataType        dataTypeMap = map[string]dataTypeMapping{
-		"numeric":    func(string) string { return "int32" },
-		"integer":    func(string) string { return "int32" },
-		"int":        func(string) string { return "int32" },
-		"smallint":   func(string) string { return "int32" },
-		"mediumint":  func(string) string { return "int32" },
-		"bigint":     func(string) string { return "int64" },
+		"numeric":    func(string) string { return "int" },
+		"integer":    func(string) string { return "int" },
+		"int":        func(string) string { return "int" },
+		"smallint":   func(string) string { return "int" },
+		"mediumint":  func(string) string { return "int" },
+		"bigint":     func(string) string { return "int" },
 		"float":      func(string) string { return "float32" },
 		"real":       func(string) string { return "float64" },
 		"double":     func(string) string { return "float64" },
@@ -147,7 +147,7 @@ var (
 			if strings.HasPrefix(strings.TrimSpace(detailType), "tinyint(1)") {
 				return "bool"
 			}
-			return "int32"
+			return "int"
 		},
 	}
 )

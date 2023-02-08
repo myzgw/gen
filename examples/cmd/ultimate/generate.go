@@ -1,10 +1,10 @@
 package main
 
 import (
-	"gorm.io/gen"
-	"gorm.io/gen/examples/conf"
-	"gorm.io/gen/examples/dal"
-	"gorm.io/gen/examples/dal/model"
+	"myzgw/gen"
+	"myzgw/gen/examples/conf"
+	"myzgw/gen/examples/dal"
+	"myzgw/gen/examples/dal/model"
 )
 
 func init() {

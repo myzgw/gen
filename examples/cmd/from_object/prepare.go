@@ -3,7 +3,7 @@ package main
 import (
 	"strings"
 
-	"gorm.io/gen/helper"
+	"myzgw/gen/helper"
 )
 
 var _ helper.Object = new(Demo)
