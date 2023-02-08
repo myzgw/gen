@@ -1,4 +1,4 @@
-# GORM Gen
+# ZGW Gen
 
 Friendly & Safer GORM powered by Code Generation.
 
@@ -24,9 +24,7 @@ Friendly & Safer GORM powered by Code Generation.
 
 ## Maintainers
 
-[@riverchu](https://github.com/riverchu) [@iDer](https://github.com/idersec) [@qqxhb](https://github.com/qqxhb) [@dino-ma](https://github.com/dino-ma)
-
-[@jinzhu](https://github.com/jinzhu)
+[@zhanggaowei](https://github.com/myzgw) 
 
 ## Contributing
 
