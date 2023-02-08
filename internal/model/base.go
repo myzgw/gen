@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"strings"
 
-	"myzgw/gen/field"
+	"github.com/myzgw/gen/field"
 )
 
 const (

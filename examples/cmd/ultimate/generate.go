@@ -1,10 +1,10 @@
 package main
 
 import (
-	"myzgw/gen"
-	"myzgw/gen/examples/conf"
-	"myzgw/gen/examples/dal"
-	"myzgw/gen/examples/dal/model"
+	"github.com/myzgw/gen"
+	"github.com/myzgw/gen/examples/conf"
+	"github.com/myzgw/gen/examples/dal"
+	"github.com/myzgw/gen/examples/dal/model"
 )
 
 func init() {

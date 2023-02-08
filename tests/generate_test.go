@@ -9,9 +9,9 @@ import (
 	"testing"
 	"time"
 
-	"myzgw/gen"
+	"github.com/myzgw/gen"
 
-	"myzgw/gen/tests/diy_method"
+	"github.com/myzgw/gen/tests/diy_method"
 )
 
 const (

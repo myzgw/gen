@@ -4,10 +4,10 @@ import (
 	"context"
 	"fmt"
 
-	"myzgw/gen/examples/biz"
-	"myzgw/gen/examples/conf"
-	"myzgw/gen/examples/dal"
-	"myzgw/gen/examples/dal/query"
+	"github.com/myzgw/gen/examples/biz"
+	"github.com/myzgw/gen/examples/conf"
+	"github.com/myzgw/gen/examples/dal"
+	"github.com/myzgw/gen/examples/dal/query"
 )
 
 func init() {

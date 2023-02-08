@@ -3,8 +3,8 @@ package tests_test
 import (
 	"testing"
 
-	"myzgw/gen/tests/.expect/dal_test/model"
-	"myzgw/gen/tests/.expect/dal_test/query"
+	"github.com/myzgw/gen/tests/.expect/dal_test/model"
+	"github.com/myzgw/gen/tests/.expect/dal_test/query"
 )
 
 func TestCreate(t *testing.T) {

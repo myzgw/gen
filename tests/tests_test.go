@@ -5,7 +5,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"myzgw/gen"
+	"github.com/myzgw/gen"
 
 	"gorm.io/driver/mysql"
 	"gorm.io/driver/sqlite"

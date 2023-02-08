@@ -1,4 +1,4 @@
-module myzgw/gen
+module github.com/myzgw/gen
 
 go 1.19
 

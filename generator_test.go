@@ -11,7 +11,7 @@ import (
 	"gorm.io/gorm/schema"
 	"gorm.io/gorm/utils/tests"
 
-	"myzgw/gen/field"
+	"github.com/myzgw/gen/field"
 )
 
 func TestConfig(t *testing.T) {

@@ -1,8 +1,9 @@
 package diy_method
 
 import (
-	"myzgw/gen"
 	"time"
+
+	"github.com/myzgw/gen"
 )
 
 type InsertMethod interface {

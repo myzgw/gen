@@ -7,7 +7,7 @@ import (
 	"os"
 	"strings"
 
-	"myzgw/gen"
+	"github.com/myzgw/gen"
 
 	"gopkg.in/yaml.v3"
 	"gorm.io/driver/mysql"
