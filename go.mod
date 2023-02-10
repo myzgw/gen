@@ -1,6 +1,6 @@
 module github.com/myzgw/gen
 
-go 1.19
+go 1.18
 
 require (
 	golang.org/x/tools v0.5.0
